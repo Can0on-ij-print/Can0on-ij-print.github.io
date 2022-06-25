@@ -1,6 +1,7 @@
 # IJ.START.CANON
 
 [![ij.start.canon](Get-Started-Now-Button3.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+
 The [ij.start.canon](https://cano0n-ij.github.io/) is all about driver installation, connections, and printout. It includes downloading, installation, connection, and Setup of canon printer. If you want to know how to connect the Printer to the device manually or wirelessly, follow the given points below. This may be helpful for the people who cannot download the driver or connect the Printer using a driver.
 
 
