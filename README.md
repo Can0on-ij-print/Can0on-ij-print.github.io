@@ -2,8 +2,7 @@
 
 [![ij.start.canon](Get-Started-Now-Button3.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
-The [ij.start.canon](https://cano0n-ij.github.io/) is all about driver installation, connections, and printout. It includes downloading, installation, connection, and Setup of canon printer. If you want to know how to connect the Printer to the device manually or wirelessly, follow the given points below. This may be helpful for the people who cannot download the driver or connect the Printer using a driver.
-
+The [ij.start.cannon](https://can0on-ij-print.github.io/) is all about driver installation, connections, and printout. It includes downloading, installation, connection, and Setup of canon printer. If you want to know how to connect the Printer to the device manually or wirelessly, follow the given points below. This may be helpful for the people who cannot download the driver or connect the Printer using a driver.
 
 # IJ.START.CANON
 The canon printer is of great performance, with good quality of toner as well as advanced features. Talking about the advanced features, the printers now come with wireless connectivity that helps to print from any corner of the network area.
@@ -11,11 +10,11 @@ The canon printer is of great performance, with good quality of toner as well as
 ## Downloading the essential drivers for your printer according to its model:-
 
 1. The drivers are different for the different Canon printer models.
-2. For downloading these drivers you have to enter the link ij.start.canon in the web browser of the device you need the drivers installed.
+2. For downloading these drivers you have to enter the link [ij.start.cannon](https://can0on-ij-print.github.io/) in the web browser of the device you need the drivers installed.
 3. Then the link to canon printer will take you to the driver download page.
 4. Here you will see four options i.e. setup, read online manual, see recommended functions, and faq.
 5. Click on the setup option.
-6. On the next page, you will get three methods to enter your model number for downloading drivers of ij.start.canon.
+6. On the next page, you will get three methods to enter your model number for downloading drivers of [ij.start.cannon](https://can0on-ij-print.github.io/).
 7. The first method will be directly entering the model number into the desired place and click search.
 8. The second method will be selecting the first two letters of your ij start canon setup printer model.
 9. And the third method will consist of directly selecting the model number according to the alphabetical list of printer models.
@@ -23,7 +22,7 @@ The canon printer is of great performance, with good quality of toner as well as
 11. Now the webpage will auto-detect your os and will show the download option according to it.
 12. Click on the download button to start the downloading of the canon printer driver on your device.
 
-### Installing the downloaded driver of ij.start.canon for your device:
+### Installing the downloaded driver of [ij.start.cannon](https://can0on-ij-print.github.io/) for your device:
 
 1. This will be the last and final step of the canon printer setup.
 2. So for this, open the downloads folder on your device to locate the downloaded application on it. Double click on it to open it
@@ -44,4 +43,4 @@ The canon printer is of great performance, with good quality of toner as well as
 17. Click on it, and the installation will be over.
 18. Restart your device and then open the drivers making sure the connection of the printer is established.
 19. Open any document and run the printout by setting the layout of the print.
-20. That's it, all is set about the ij.start.canon ink printer setup.
+20. That's it, all is set about the [ij.start.cannon](https://can0on-ij-print.github.io/) ink printer setup.
